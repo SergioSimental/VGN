@@ -89,7 +89,10 @@ https://newsapi.org/v2/everything?q=gaming&from={DATE}&sortBy=popularity&languag
   
 ## Screenshots
 Homepage
-![Alt text](https://github.com/SergioSimental/VGN/blob/b71ee37d5afca7b6aa56a16340bd8b778da85cfe/homepage_screenshot.png)
+![Alt text](https://github.com/SergioSimental/VGN/blob/6513209542d38657cd3184e1146ef0b84ebe2f82/homepage-search.png)
 
 Archives page
-![App Screenshot](https://github.com/SergioSimental/VGN/blob/6f69197f55a14058b991a43ad473e311f415165d/archives_screenshot.png)
+![App Screenshot](https://github.com/SergioSimental/VGN/blob/6513209542d38657cd3184e1146ef0b84ebe2f82/archives.png)
+
+Search Result page
+![App Screenshot](https://github.com/SergioSimental/VGN/blob/6513209542d38657cd3184e1146ef0b84ebe2f82/search_result.png)
