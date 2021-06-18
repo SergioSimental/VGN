@@ -25,11 +25,11 @@ def home(request):
     response = requests.get(url)
     data = response.json()
     
-    write_json(data,file)
+    #write_json(data,file)
 
 
-    ds = json.loads(file)
-    unique_news = { each['obj_id'] : each for each in ds}.values()
+    #ds = json.loads(file)
+    #unique_news = { each['obj_id'] : each for each in ds}.values()
 
     articles = data['articles']
     
