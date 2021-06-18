@@ -89,7 +89,7 @@ https://newsapi.org/v2/everything?q=gaming&from={DATE}&sortBy=popularity&languag
   
 ## Screenshots
 Homepage
-![App Screenshot](https://i.postimg.cc/FfbdLCW6/homepage-screenshot.png)
+![App Screenshot](https://github.com/SergioSimental/VGN/homepage-screenshot.png)
 
 Archives page
 ![App Screenshot](https://i.postimg.cc/LqFghFTf/archives-screenshot.png)
