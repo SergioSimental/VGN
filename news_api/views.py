@@ -4,7 +4,7 @@ from datetime import date
 import json
 from pathlib import Path
 
-API_KEY = '91bbdf9adfeb4c0f8e046fb4e1e58933'
+API_KEY = 'NewAPI_KEY'
 DATE = date.today()
 file = '/newsapp/news_api/news.json'
 json_news = { }
