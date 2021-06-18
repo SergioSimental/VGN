@@ -1,7 +1,9 @@
 
 # Video Game News 
 
-A news aggregator for daily video games news. The project developed in Python using Django framework and New API. 
+A news aggregator for daily video games news. 
+User can search the API for articles using keywords related to gaming. 
+The project developed in Python using Django framework and New API. 
 Webpages are made using HTML Bootstrap 5 along with Python to get the articles information. 
 Screenshots of app at the bottom.
 
