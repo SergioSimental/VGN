@@ -88,11 +88,11 @@ https://newsapi.org/v2/everything?q=gaming&from={DATE}&sortBy=popularity&languag
 
   
 ## Screenshots
-Homepage
+Homepage: Searched Xbox
 ![Alt text](https://github.com/SergioSimental/VGN/blob/6513209542d38657cd3184e1146ef0b84ebe2f82/homepage-search.png)
 
-Archives page
+Archives Page
 ![App Screenshot](https://github.com/SergioSimental/VGN/blob/6513209542d38657cd3184e1146ef0b84ebe2f82/archives.png)
 
-Search Result page
+Xbox Search Result Page
 ![App Screenshot](https://github.com/SergioSimental/VGN/blob/6513209542d38657cd3184e1146ef0b84ebe2f82/search_result.png)
