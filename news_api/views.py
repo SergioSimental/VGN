@@ -55,18 +55,20 @@ def archive(request):
 
     
 def search(request):
-    q = request.GET['query']
-    url = f'https://newsapi.org/v2/everything?q=gaming&q={q}&sortBy=popularity&language=en&apiKey={API_KEY}'
-    response = requests.get(url)
-    data = response.json()
+    if request.method == 'GET':
+        query = request.GET.get('search')
+        url = f'https://newsapi.org/v2/everything?q=gaming+q={query}&sortBy=popularity&language=en&apiKey={API_KEY}'
+        print(url)
+        response = requests.get(url)
+        data = response.json()
 
-    articles= data['articles']
+        articles= data['articles']
 
-    context={
-        'articles' : articles
-    }    
+        context={
+            'articles' : articles
+        }    
 
-    return render(request, 'news/search.html', context)
+        return render(request, 'news/search.html', context)
 
 
 
@@ -80,3 +82,4 @@ def write_json(new_data, file_name):
         file_name.seek(0)
         # convert back to json.
         json.dump(file_data, file_name, indent=4)
+
