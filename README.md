@@ -92,4 +92,4 @@ Homepage
 ![Alt text](https://github.com/SergioSimental/VGN/blob/b71ee37d5afca7b6aa56a16340bd8b778da85cfe/homepage_screenshot.png)
 
 Archives page
-![App Screenshot](https://i.postimg.cc/LqFghFTf/archives-screenshot.png)
+![App Screenshot](https://github.com/SergioSimental/VGN/blob/6f69197f55a14058b991a43ad473e311f415165d/archives_screenshot.png)
