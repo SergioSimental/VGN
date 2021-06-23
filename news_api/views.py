@@ -5,7 +5,7 @@ import json
 import time
 
 
-API_KEY = '91bbdf9adfeb4c0f8e046fb4e1e58933'
+API_KEY = 'Key'
 DATE = date.today()
 
 # Create your views here.
