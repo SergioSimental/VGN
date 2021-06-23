@@ -1,7 +1,9 @@
 
 # Video Game News 
 
-A news aggregator for daily video games news. The project developed in Python using Django framework and New API. 
+A news aggregator for daily video games news. 
+User can search the API for articles using keywords related to gaming. 
+The project developed in Python using Django framework and New API. 
 Webpages are made using HTML Bootstrap 5 along with Python to get the articles information. 
 Screenshots of app at the bottom.
 
@@ -88,8 +90,11 @@ https://newsapi.org/v2/everything?q=gaming&from={DATE}&sortBy=popularity&languag
 
   
 ## Screenshots
-Homepage
-![Alt text](https://github.com/SergioSimental/VGN/blob/b71ee37d5afca7b6aa56a16340bd8b778da85cfe/homepage_screenshot.png)
+Homepage: Searched Xbox
+![Alt text](https://github.com/SergioSimental/VGN/blob/6513209542d38657cd3184e1146ef0b84ebe2f82/homepage-search.png)
 
-Archives page
-![App Screenshot](https://github.com/SergioSimental/VGN/blob/6f69197f55a14058b991a43ad473e311f415165d/archives_screenshot.png)
+Archives Page
+![App Screenshot](https://github.com/SergioSimental/VGN/blob/6513209542d38657cd3184e1146ef0b84ebe2f82/archives.png)
+
+Xbox Search Result Page
+![App Screenshot](https://github.com/SergioSimental/VGN/blob/6513209542d38657cd3184e1146ef0b84ebe2f82/search_result.png)
