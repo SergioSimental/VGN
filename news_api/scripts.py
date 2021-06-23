@@ -7,14 +7,14 @@ API_KEY = '91bbdf9adfeb4c0f8e046fb4e1e58933'
 
 # Save data to json file - rewrite: deletes old data
 def save(data):
-    with open('C:/Users/steve/Desktop/VGN/newsapp/data.json', 'w') as fp:
+    with open('data.json', 'w') as fp:
         json.dump(data, fp)
 
 
 # Update data to json file - append: adds to old data
 def update(data):
     temp_data = None
-    with open('C:/Users/steve/Desktop/VGN/newsapp/data.json', 'r+') as fp:
+    with open('data.json', 'r+') as fp:
         d = json.load(fp)
         temp_data = d
         save(data)
