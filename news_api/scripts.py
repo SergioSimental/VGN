@@ -3,7 +3,7 @@ import json
 from datetime import date
 
 DATE = date.today()
-API_KEY = '91bbdf9adfeb4c0f8e046fb4e1e58933'
+API_KEY = 'Key'
 
 # Save data to json file - rewrite: deletes old data
 def save(data):
