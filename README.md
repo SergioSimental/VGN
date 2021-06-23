@@ -80,6 +80,12 @@ Example: 'path\python.exe' 'path\scripts.py'
 #### Set up Windows Task Scheduler
 Create basic task, name the task, set to daily, change date and time to when you want to start running the script, start program, add path to scripts.py to Program/script text field and click finish. 
 
+
+## Todo:
+- Host web app
+- Move scripts task onto server
+- CI/CD
+
   
 ## Badges
 
