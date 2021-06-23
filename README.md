@@ -71,6 +71,14 @@ https://newsapi.org/v2/everything?q=gaming&from={DATE}&sortBy=popularity&languag
 | `DATE`    | `string` | **Required**. Date to fetch daily articles|
 
 
+## Script
+
+#### Running Script 
+Change bat file adding the path to python exe and scripts.py surrounded by single quotes.
+Example: 'path\python.exe' 'path\scripts.py'
+
+#### Set up Task Scheduler
+Create basic task, name the task, set to daily, change date and time to when you want to start running the script, start program, add path to scripts.py to Program/script text field and click finish. 
 
   
 ## Badges
