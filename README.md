@@ -72,6 +72,9 @@ https://newsapi.org/v2/everything?q=gaming&from={DATE}&sortBy=popularity&languag
 
 ## Script
 
+#### Scripts.py
+Be sure to add correct paths to the json file.
+
 #### Running Script 
 Change bat file adding the path to python exe and scripts.py surrounded by single quotes.
 Example: 'path\python.exe' 'path\scripts.py'
@@ -96,10 +99,6 @@ Create basic task, name the task, set to daily, change date and time to when you
 ## Authors
 
 - [@SergioSimental](https://github.com/SergioSimenta)
-
-  
-
-  
 
   
 ## Screenshots
