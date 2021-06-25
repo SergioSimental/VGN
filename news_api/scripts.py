@@ -15,12 +15,12 @@ def save(data):
 def update(data):
     temp_data = None
     with open('data.json', 'r+') as fp:
-        d = json.load(fp)
+        d = json.loads(fp)
         temp_data = d
         save(data)
 
     with open('data.json', 'r+') as fp:   
-        n = json.load(fp)
+        n = json.loads(fp)
         n.update(temp_data)
         fp.seek(0)
         json.dump(n, fp)
