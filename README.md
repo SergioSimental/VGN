@@ -24,7 +24,7 @@ python -m venv folder_name
 ```
 python -m pip --upgrade pip
 pip install django 
-pip install request   
+pip install requests   
 ```
 
 | Dependencies | Description                       |
